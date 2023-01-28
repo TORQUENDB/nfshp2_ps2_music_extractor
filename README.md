@@ -4,10 +4,10 @@ Utility to extract the ADPCM music tracks from the PS2 version of Need for Speed
 Requirements:
 Python 3.10+
 
-.cl5 files from ZZDATA.BIN (instructions for extracting using 3rd party Windows tools are below)
+.cl5 files from ZZDATA.BIN (instructions for extracting using 3rd party tools are below)
 
 
-How to find and extract ZZDATA.BIN archive (Windows only):
+How to find and extract ZZDATA.BIN archive:
 
 1. Copy ZDIR.BIN (SHA1: C3F68C904F6A9342443F96723E1873668EAF3C4D) and ZZDATA.BIN (SHA1: 72AC8E46357627ED2CC0D0AD8650D0B052C8D307) from the NFSHP2 folder on the Need for Speed: Hot Pursuit 2 game disc and place in the same folder on your computer
 2. Download QuickBMS and the Nfsu Bun script from https://aluigi.altervista.org/quickbms.htm
